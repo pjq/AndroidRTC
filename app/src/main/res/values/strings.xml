@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidRTC</string>
+    <string name="host">webrtc.pjq.me</string>
+    <string name="port">3002</string>
+    <string name="action_settings">settings</string>
+</resources>

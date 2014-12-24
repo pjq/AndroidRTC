@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pengjianqing/workspace/AndroidRTC/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/pengjianqing/workspace/AndroidRTC/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-70e0424500022d0d6f2ef97b75e918162cba519b.jar" />
+    </item>
+    <item
+        jar="/Users/pengjianqing/workspace/AndroidRTC/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/pengjianqing/workspace/AndroidRTC/app/build/intermediates/pre-dexed/debug/classes-fac1089f940eeffccc4dca03f85f8fdcd24c169c.jar" />
+    </item>
+    <item
+        jar="/Users/pengjianqing/workspace/AndroidRTC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/pengjianqing/workspace/AndroidRTC/app/build/intermediates/pre-dexed/debug/classes-72454221132aca223de5f4b01d7ffcbb589068a1.jar" />
+    </item>
+    <item
+        jar="/Users/pengjianqing/workspace/AndroidRTC/app/libs/libjingle_peerconnection.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="97c14e07cdb08b615ed3f1ba10a74c0da69d00d1">
+        <dex dex="/Users/pengjianqing/workspace/AndroidRTC/app/build/intermediates/pre-dexed/debug/libjingle_peerconnection-2592229338b3ebfe02adddfd5836e7bc1918a5b3.jar" />
+    </item>
+    <item
+        jar="/Users/pengjianqing/Documents/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/pengjianqing/workspace/AndroidRTC/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-5080a60a857443ce7a480b100ff832fe21316367.jar" />
+    </item>
+    <item
+        jar="/Users/pengjianqing/workspace/AndroidRTC/app/libs/lib_android_websockets.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="3cb9d5095e4795e6a1ac2bb3a3705434fc5063c7">
+        <dex dex="/Users/pengjianqing/workspace/AndroidRTC/app/build/intermediates/pre-dexed/debug/lib_android_websockets-b1815f8a8afe0f225878fe557a14fe414d767145.jar" />
+    </item>
+
+</items>
